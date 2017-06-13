@@ -3,7 +3,7 @@
 
 表情网站:<br>
 mac上 `control`+`command`+`space` 打开emoji 点击拷贝简介 <br>
-UTF-16 最新请看 http://www.iemoji.com/ (C/C++/Java Src) <br>
+UTF-16 最新请看 http://www.iemoji.com/ (`Emoji Character Encoding Data`->`C/C++/Java Src`) <br>
 
 
 | 表情  | 推送编码(UTF-16) |  info                  |  Unicode  |      UTF-8     | iOS(Unicode和UTF-16)|  Android(UTF-16)) | 
