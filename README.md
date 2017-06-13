@@ -1,12 +1,9 @@
 # APNS_Emoji
 
-推送编码 还没有想好用哪个网站的 <br>
-表情网站:<br>
-(翻墙) https://www.webpagefx.com/tools/emoji-cheat-sheet/  [github 等等各大网站用的表情]<br>
-(不需要翻墙) http://cn.piliapp.com/emoji/cheat-sheet/ <br>
 
-mac上 `control`+`command`+`space` 打开emoji 点击拷贝简介
-有很多iOS编码需要在此确认 <br>
+表情网站:<br>
+mac上 `control`+`command`+`space` 打开emoji 点击拷贝简介 
+UTF-16 最新请看 http://www.iemoji.com/ (C/C++/Java Src)
 
 
 | 表情  | 推送编码(UTF-16) |  info                  |  Unicode  |      UTF-8     | iOS(Unicode和UTF-16)|  Android(UTF-16)) | 
